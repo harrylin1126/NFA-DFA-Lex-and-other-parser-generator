@@ -1,0 +1,11 @@
+int main(void){
+	int aa_aa = 2;
+	float num = 1.970E+1970;
+	if ('A' == '1') {aa_aa = 3;}
+	float AJD = 1.970;
+	if (x >= 1) {x = x + 1;}
+	else {CTLin = 6430EN;}
+	int AYY = 8983;
+	int ASK = 0605;
+	while(x <> 1){AYY = 8983;}
+}
